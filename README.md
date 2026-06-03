@@ -1,4 +1,4 @@
-# DocMaskRefine
+# ASMG-DARN
 
 In International Conference on Intelligent Computing 2026(ICIC 2026)
 
