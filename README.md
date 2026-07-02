@@ -9,8 +9,8 @@ In International Conference on Intelligent Computing 2026(ICIC 2026)
 ### Installation
 
 ```
-git clone https://github.com/HuangZeLinCute/DocMaskRefine.git
-cd DocMaskRefine
+git clone https://github.com/HuangZeLinCute/ASMG-DARN.git
+cd ASMG-DARN
 pip install -r requirements.txt
 ```
 
