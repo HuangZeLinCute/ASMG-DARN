@@ -1,6 +1,8 @@
 # ASMG-DARN
 
-In International Conference on Intelligent Computing 2026(ICIC 2026)
+In *International Conference on Intelligent Computing 2026 (ICIC 2026)*  
+Published in Springer Lecture Notes in Computer Science (LNCS).  
+Paper Link: https://link.springer.com/chapter/10.1007/978-981-92-3420-2_18
 
 ![image-20260513232250070](result/test.png)
 
